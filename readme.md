@@ -1,7 +1,5 @@
 # Assignment MarkDown
 
-___
-
 ### 1. What website did we find?
 [![N|Solid](http://www.treasure-pot.be/Afbeeldingen/head.jpg)]( http://www.treasure-pot.be/)
 
@@ -50,5 +48,5 @@ however you need to make sure the link works.
 >  *  [soups](http://www.treasure-pot.be/menu.htm) 
 >  *  [appetisers](http://www.treasure-pot.be/menu.htm)
 >  *  [main courses](http://www.treasure-pot.be/menu.htm)
-___
+
 
