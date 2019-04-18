@@ -36,17 +36,8 @@ ___
 
 Changes | Explanation
 ------------ | -------------
-Better and more streamlined feel of the site. | Change the background color, have higher quality pictures. 
-Customers need to be able to scroll through pictures.
-Add some reviews of happy customers. (especially if the food is great!)
-Add a working email where people can post questions. | Adding an email or other contact method to your site is a good idea, 
-however you need to make sure the link works.
-Make menu more visible and more easy to navigate. | Don't put your special offers on the bottom of another page.
-Make another tab where people can find your specials.
-Maybe add some links people can click on to take them to different parts of your menu; 
-
- *  [soups](http://www.treasure-pot.be/menu.htm) 
- *  [appetisers](http://www.treasure-pot.be/menu.htm)
- *  [main courses](http://www.treasure-pot.be/menu.htm)
+Better and more streamlined feel of the site. | Change the background color, have higher quality pictures. Customers need to be able to scroll through pictures. Add some reviews of happy customers. (especially if the food is great!)
+Add a working email where people can post questions. | Adding an email or other contact method to your site is a good idea, however you need to make sure the link works.
+Make menu more visible and more easy to navigate. | Don't put your special offers on the bottom of another page. Make another tab where people can find your specials. Maybe add some links people can click on to take them to different parts of your menu; e.g. [soups](http://www.treasure-pot.be/menu.htm) [appetisers](http://www.treasure-pot.be/menu.htm) [main courses](http://www.treasure-pot.be/menu.htm)
 
 
