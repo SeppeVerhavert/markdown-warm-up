@@ -4,6 +4,7 @@ ___
 
 ### 1. What website did we find?
 [![N|Solid](http://www.treasure-pot.be/Afbeeldingen/head.jpg)]( http://www.treasure-pot.be/)
+
 We found the site of *Treasure Pot*, a Chinese restaurant.
 
 ___
@@ -41,10 +42,11 @@ Add some reviews of happy customers. (especially if the food is great!)
 however you need to make sure the link works.
 * Make menu more visible and more easy to navigate.
 > Don't put your special offers on the bottom of another page.
-Make another tab where people can find your specials.
-Maybe add some links people can click on to take them to different parts of your menu; 
-[soups](http://www.treasure-pot.be/menu.htm) 
-[appetisers](http://www.treasure-pot.be/menu.htm)
-[main courses](http://www.treasure-pot.be/menu.htm)
+>Make another tab where people can find your specials.
+>Maybe add some links people can click on to take them to different parts of your >menu; 
+
+>[soups](http://www.treasure-pot.be/menu.htm) 
+>[appetisers](http://www.treasure-pot.be/menu.htm)
+>[main courses](http://www.treasure-pot.be/menu.htm)
 ___
 
