@@ -17,12 +17,14 @@ ___
 
 ### 3. How did you find it ?
 We saw it before and remembered it to be a **very** crappy site.
+
 However the food is great.
 
 ___
 
 ### 4. Why does this website need an update / complete makeover ?
 This website is in desperate need of a total makeover. 
+
 The text and message is okay at best but the placements and graphics are terrible. 
 
 ___
@@ -44,9 +46,9 @@ however you need to make sure the link works.
 > Don't put your special offers on the bottom of another page.
 >Make another tab where people can find your specials.
 >Maybe add some links people can click on to take them to different parts of your >menu; 
-
->[soups](http://www.treasure-pot.be/menu.htm) 
->[appetisers](http://www.treasure-pot.be/menu.htm)
->[main courses](http://www.treasure-pot.be/menu.htm)
+>
+>  *  [soups](http://www.treasure-pot.be/menu.htm) 
+>  *  [appetisers](http://www.treasure-pot.be/menu.htm)
+>  *  [main courses](http://www.treasure-pot.be/menu.htm)
 ___
 
